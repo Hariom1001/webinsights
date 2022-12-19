@@ -1038,7 +1038,7 @@ display: block;
       }
       .sec3-service-wrapper-side{
         width: 99%;
-        text-align: center;
+        padding-left: 20px;
       }
       .sec3-content-wrapper{
         text-align: center;
